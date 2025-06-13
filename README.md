@@ -25,11 +25,3 @@ Este proyecto implementa un teclado virtual controlado por la **mirada** y **tie
 - Entorno de escritorio (Windows, Linux o macOS)  
 
 ---
-
-## 📦 Instalación
-
-1. **Clona el repositorio:**
-
-```bash
-git clone https://github.com/tu-usuario/eye-tracking-keyboard.git
-cd eye-tracking-keyboard
